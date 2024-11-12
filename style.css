@@ -1,0 +1,40 @@
+.header {
+    background-color: #133E87 ;
+    color: ghostwhite;
+    text-align: center;
+    padding: 6px;
+    margin-top: 6px;
+    margin-bottom: 13px;
+}
+
+.section h2 {
+    color: #133E87;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.section ul{
+    margin-left: -22px;
+    
+}
+
+.form input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.form button {
+    width: 100%;
+    border: 6px solid lavenderblush;
+    border-bottom: none;
+}
+
+.footer {
+    background-color: #CBDCEB;
+    color: #133E87;
+    text-align: center;
+    padding: 30px;
+}
